@@ -1,0 +1,13 @@
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\bin\Debug\netcoreapp3.1\TallerRecursividad.exe
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\bin\Debug\netcoreapp3.1\TallerRecursividad.deps.json
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\bin\Debug\netcoreapp3.1\TallerRecursividad.runtimeconfig.json
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\bin\Debug\netcoreapp3.1\TallerRecursividad.runtimeconfig.dev.json
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\bin\Debug\netcoreapp3.1\TallerRecursividad.dll
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\bin\Debug\netcoreapp3.1\TallerRecursividad.pdb
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\obj\Debug\netcoreapp3.1\TallerRecursividad.csprojAssemblyReference.cache
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\obj\Debug\netcoreapp3.1\TallerRecursividad.AssemblyInfoInputs.cache
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\obj\Debug\netcoreapp3.1\TallerRecursividad.AssemblyInfo.cs
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\obj\Debug\netcoreapp3.1\TallerRecursividad.csproj.CoreCompileInputs.cache
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\obj\Debug\netcoreapp3.1\TallerRecursividad.dll
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\obj\Debug\netcoreapp3.1\TallerRecursividad.pdb
+D:\U De Manizales\IX Semestre\Programacion III\Corte I\tallerRecursividad\TallerRecursividad\TallerRecursividad\obj\Debug\netcoreapp3.1\TallerRecursividad.genruntimeconfig.cache
